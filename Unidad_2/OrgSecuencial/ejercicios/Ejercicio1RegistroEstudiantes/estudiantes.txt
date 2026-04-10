@@ -1,0 +1,17 @@
+234333,ddsasasa,Licenciatura en Biología, 2.4
+234333,ddsasasa,Licenciatura en Biología, 2.4
+8228292,dududjd,Ingeniería Forestal, 88.0
+202002,ddddd,Ingeniería en Gestión Empresarial, 1000.0
+2322,eeeee,Ingeniería Forestal, 2222.0
+wwwww,eeeee,Ingeniería Forestal, 2222.0
+3333333,Diego Emiliano ,Licenciatura en Biología, 677.0
+3333333,Diego Emiliano ,Licenciatura en Biología, 677.0
+3333333,Diego Emiliano ,Licenciatura en Biología, 677.0
+22222,shgshsh,Ingeniería en Agronomía, 1111.0
+22222,shgshsh,Ingeniería en Agronomía, 1111.0
+22222,shgshsh,Ingeniería en Agronomía, 1111.0
+22222,shgshsh,Ingeniería en Agronomía, 1111.0
+22222,shgshsh,Ingeniería en Agronomía, 1111.0
+22222,shgshsh,Ingeniería en Agronomía, 1111.0
+22222,dddd,Ingeniería en Agronomía, 222.0
+44444,aaaaa,Ingeniería Forestal, 222.0
